@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Ambiente virtual (se você usar)
+venv/
+.venv/
+
+# Banco local
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configs sensíveis (se você criar depois)
+.env
